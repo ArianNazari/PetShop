@@ -1,0 +1,355 @@
+@media(max-width:1210px) {
+    .category_food_shop_items {
+        width: 23%;
+    }
+
+    .section1_form_left img {
+        top: 50px;
+    }
+
+}
+
+@media(max-width:1189px) {
+    .section1_product_buy div h1 {
+        font-size: 33px;
+    }
+
+    .section1_product_buy img {
+        width: 135px;
+    }
+
+}
+
+@media (max-width:1171px) {
+    .menu {
+        font-size: 12px;
+    }
+
+    .login>span {
+        font-size: 13px;
+    }
+
+    .shop_catrgory {
+        width: 95%;
+    }
+}
+
+@media(max-width:1096px) {
+    .title_items_about {
+        font-size: 14px;
+    }
+
+    .section1_product_buy img {
+        width: 124px;
+    }
+
+    .about_addres {
+        font-size: 13px;
+    }
+
+    .name_product span {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+
+    .item_produvt_buy p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:1073px) {
+    .img_phone {
+        top: -97px
+    }
+}
+
+@media(max-width:1055px) {
+    .section1_product_buy div h1 {
+        font-size: 28px;
+        padding: 2px;
+    }
+}
+
+@media (max-width:996px) {
+    .item_weblog {
+        width: 30%;
+        margin-top: 10px;
+    }
+
+    .items_weblog {
+        flex-wrap: wrap;
+    }
+
+    .date {
+        width: 24%;
+    }
+
+    .abuot_us {
+        flex-direction: column;
+    }
+
+    .abuot_us p {
+        margin-top: 5px;
+    }
+
+    .category_food_shop_items {
+        width: 30%;
+        margin: 11px;
+    }
+
+    .product_Buy {
+        flex-direction: column;
+    }
+
+    .section1_product_buy {
+        margin: 2rem;
+        width: 95%;
+        height: 288px;
+    }
+
+    .Breand {
+        flex-direction: column;
+        width: 100%;
+        height: 217px;
+        align-items: center;
+    }
+
+    .title_brand {
+        text-align: center;
+        width: 100%;
+    }
+
+    .section1_form_left img {
+        display: none;
+    }
+
+    .form_massge {
+        width: 70%;
+    }
+
+    .main_section2 {
+        width: 100%;
+    }
+
+    .main_form {
+        width: 95%;
+    }
+
+    .buy_product img {
+        width: 31%;
+    }
+
+    .main_footer {
+        flex-direction: column-reverse;
+    }
+
+    .section1_footer {
+        width: 100%;
+    }
+
+    .section2_footer {
+        width: 100%;
+        margin: 0;
+        margin-top: 2rem;
+    }
+
+    .section3_footer {
+        width: 100%;
+    }
+
+    .img_estamdard {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .menu_botton {
+        display: flex;
+    }
+
+    .footer {
+        margin-bottom: 43px;
+    }
+}
+
+@media (max-width:985px) {
+    .icon_bar {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .header_bottom {
+        justify-content: space-between;
+    }
+
+    .item_produvt_buy {
+        width: 30%;
+    }
+
+    .shop_catrgory {
+        flex-wrap: wrap;
+    }
+
+    .img_phone {
+        width: 40%;
+        top: -96px;
+    }
+}
+
+@media(max-width:885px) {
+    .items_about {
+        flex-direction: column;
+    }
+
+    .abuot_us {
+        align-items: center;
+    }
+
+    .abuot_us div img {
+        max-width: 246px;
+    }
+
+
+}
+
+@media(max-width:823px) {
+    .text_main {
+        flex-direction: column-reverse;
+    }
+
+    .image_main {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+
+    .right {
+        width: 100%;
+        margin-top: 3rem;
+    }
+
+    .food_woodmart {
+        margin: 0 auto;
+        margin-bottom: 1rem;
+    }
+
+    .category_food_shop_items {
+        width: 41%;
+    }
+
+    .main_form {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section2_about {
+        width: 95%;
+        text-align: center;
+    }
+
+    .line_image {
+        margin: 0 auto;
+    }
+
+    .form_massge {
+        width: 100%;
+    }
+
+    .buy_product {
+        flex-wrap: wrap;
+    }
+
+    .buy_product img {
+        width: 43%;
+    }
+
+    .name_product span {
+        display: none;
+    }
+}
+
+@media(max-width:785px) {
+    .items_product_buy {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+}
+
+
+@media (max-width:751px) {
+    .img_phone {
+        display: none;
+    }
+
+    .download_application_section1 {
+        width: 100%;
+    }
+}
+
+@media (max-width:632px) {
+    .item_produvt_buy {
+        width: 40%;
+    }
+
+    .items_weblog {
+        width: 95%;
+    }
+
+    .item_weblog {
+        width: 43%;
+        margin: 15px;
+    }
+}
+
+@media (max-width:580px) {
+    .phone_page {
+        display: none;
+    }
+
+    .icon_grop {
+        margin: 0 auto;
+    }
+
+    .login span:first-child {
+        display: none;
+    }
+
+    .category_food_shop_items {
+        width: 46%;
+    }
+
+
+}
+
+@media (max-width:550px) {
+    .category_food_shop_items {
+        width: 68%;
+        height: 100px;
+    }
+
+    .buy_product img {
+        width: 90%;
+    }
+
+    .items_product_buy img {
+        margin: 0 auto;
+    }
+
+    .img_estamdard {
+        width: 80%;
+    }
+}
+
+@media(max-width:455px) {
+    .item_produvt_buy {
+        width: 90%;
+    }
+
+    .item_weblog {
+        width: 100%;
+        margin: 15px 0;
+    }
+}
